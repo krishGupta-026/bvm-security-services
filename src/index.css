@@ -483,7 +483,7 @@ img {
   color: #f9fafb;
   box-shadow: 0 18px 40px rgba(15, 23, 42, 0.7);
   backdrop-filter: blur(14px);
-  animation: floatUpDown 6s ease-in-out infinite;
+  animation: floatUpDown 3s ease-in-out infinite;
 }
 
 .floating-icon .icon-svg {
