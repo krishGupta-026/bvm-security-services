@@ -55,7 +55,7 @@ export default function About() {
                 <p>Years Experience</p>
               </div>
               <div>
-                <h3>5000+</h3>
+                <h3>50+</h3>
                 <p>Projects Completed</p>
               </div>
               <div>
