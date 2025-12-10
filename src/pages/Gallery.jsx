@@ -48,7 +48,7 @@ export default function Gallery() {
 
           <div className="gallery-stats">
             <div className="stat-card">
-              <h3>5000+</h3>
+              <h3>50+</h3>
               <p>Installations Completed</p>
             </div>
             <div className="stat-card">
