@@ -84,7 +84,7 @@ export default function Navbar() {
         <Link to="/" className="nav-logo" onClick={handleClick}>
           <img src={logo} alt="BVM Security Logo" className="logo-img" />
           <div className="logo-text">
-            <span className="logo-bold">BVM</span>
+            <span className="logo-bold">B.V.M</span>
             <span className="logo-light">Security Services</span>
           </div>
         </Link>
