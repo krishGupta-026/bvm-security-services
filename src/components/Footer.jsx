@@ -16,7 +16,7 @@ export default function Footer() {
           <div className="footer-logo">
             <div className="logo-icon"><img src={logo} alt="BVM Security Logo" /></div>
             <span className="logo-text">
-              BVM <span>Security</span>
+              B.V.M<span>Security</span>
             </span>
           </div>
           <p className="footer-text">
