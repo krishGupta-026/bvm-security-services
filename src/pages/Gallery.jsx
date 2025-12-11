@@ -4,6 +4,11 @@ import g2 from "../assets/gallery2.jpeg";
 import g3 from "../assets/gallery3.webp";
 import g4 from "../assets/gallery4.webp";
 import g5 from "../assets/securityguards.jpg";
+import g6 from "../assets/gallery5.jpeg";
+import g7 from "../assets/gallery6.jpeg";
+import g8 from "../assets/gallery7.jpeg";
+import g9 from "../assets/gallery8.jpeg";
+
 
 const items = [
   { id: 1, img: g1 },
@@ -11,6 +16,10 @@ const items = [
   { id: 3, img: g3 },
   { id: 4, img: g4 },
   { id: 5, img: g5 },
+  { id: 6, img: g6 },
+  { id: 7, img: g7 },
+  { id: 7, img: g8 },
+  { id: 7, img: g9 },
 ];
 
 export default function Gallery() {
@@ -60,8 +69,8 @@ export default function Gallery() {
               <p>Years Experience</p>
             </div>
             <div className="stat-card">
-              <h3>24/7</h3>
-              <p>Support Available</p>
+              <h3>5000000+</h3>
+              <p>Turnover</p>
             </div>
           </div>
         </div>
