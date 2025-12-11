@@ -21,9 +21,17 @@ export default function Contact() {
           <div className="contact-card">
             <div className="contact-icon">📍</div>
             <h3>Visit Us</h3>
-            <p>Ground Floor, Shop no. 1, S.T.B Chowk, Sneh Vihar,</p>
-            <p>Sohna Road, Bhondsi, Gurugram - 122001</p>
+            <p>Ground Floor, Shop no. 1, S.T.B Chowk, Sneh Vihar,Sohna Road, Bhondsi, Gurugram - 122001</p>
+            
           </div>
+          <div className="contact-card">
+            <div className="contact-icon">📍</div>
+            <h3>Other Branches</h3>
+            <p>-Daultabad sector 106 plaza Ground floor Gurgaon</p>
+            <p>-Noida sector 16 U.P.</p>
+            <p>-Dwarka New Delhi</p>
+            <p>-Sector 22, Ahmedabad, Gujrat</p>
+            </div>
 
           <div className="contact-card">
             <div className="contact-icon">📞</div>
