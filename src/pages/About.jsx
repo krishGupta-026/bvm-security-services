@@ -31,7 +31,7 @@ export default function About() {
               Industry Leaders
             </h2>
             <p>
-              BVM Security Services was founded in 2010 with a simple mission:
+              B.V.M Security Services was founded in 2023 with a simple mission:
               to provide top-tier security solutions that everyone can afford.
               What started as a small team of three passionate security experts
               has grown into a leading provider serving thousands of homes and
@@ -55,12 +55,12 @@ export default function About() {
                 <p>Years Experience</p>
               </div>
               <div>
-                <h3>50+</h3>
-                <p>Projects Completed</p>
+                <h3>99%</h3>
+                <p>Client Retention</p>
               </div>
               <div>
-                <h3>98%</h3>
-                <p>Client Retention</p>
+                <h3>50 Lakhs +</h3>
+                <p>Turnover</p>
               </div>
             </div>
           </div>
@@ -114,7 +114,7 @@ export default function About() {
           <div className="section-header">
             <span className="section-pill">Meet Our Experts</span>
             <h2>
-              The People <span>Behind BVM</span>
+              The People <span>Behind B.V.M</span>
             </h2>
             <p>
               Our experienced professionals ensure seamless service and
