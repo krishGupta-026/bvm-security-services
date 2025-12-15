@@ -68,10 +68,6 @@ export default function Gallery() {
               <h3>15+</h3>
               <p>Years Experience</p>
             </div>
-            <div className="stat-card">
-              <h3>5000000+</h3>
-              <p>Turnover</p>
-            </div>
           </div>
         </div>
       </section>
