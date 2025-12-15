@@ -11,7 +11,8 @@ export default function About() {
         <div className="page-container subpage-hero-inner">
           <span className="section-pill">About Us</span>
           <h1>
-            Protecting Communities <br />
+            Where Excellence Meets <br />
+            <span>Protecting Communities</span>
           </h1>
           <p>
             We&apos;re more than a security company – we&apos;re your partners
