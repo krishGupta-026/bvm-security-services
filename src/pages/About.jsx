@@ -59,8 +59,8 @@ export default function About() {
                 <p>Client Retention</p>
               </div>
               <div>
-                <h3>50 Lakhs +</h3>
-                <p>Turnover</p>
+                <h3>50+</h3>
+                <p>Projects Delivered</p>
               </div>
             </div>
           </div>
