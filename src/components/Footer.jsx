@@ -21,7 +21,7 @@ export default function Footer() {
           </div>
           <p className="footer-text">
             Protecting what matters most. Your trusted partner in comprehensive
-            security solutions since 2010.
+            security solutions.
           </p>
           <div className="footer-social">
             <span className="social-icon">f</span>
@@ -74,7 +74,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <span>© 2025 BVM Security Services. All rights reserved.</span>
+        <span>© BVM Security Services. All rights reserved.</span>
         <div className="footer-bottom-links">
           <a href="#" onClick={scrollToTop}>Privacy Policy</a>
           <a href="#" onClick={scrollToTop}>Terms of Service</a>
