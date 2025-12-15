@@ -12,7 +12,6 @@ export default function About() {
           <span className="section-pill">About Us</span>
           <h1>
             Protecting Communities <br />
-            Since <span>2010</span>
           </h1>
           <p>
             We&apos;re more than a security company – we&apos;re your partners
@@ -31,7 +30,7 @@ export default function About() {
               Industry Leaders
             </h2>
             <p>
-              B.V.M Security Services was founded in 2023 with a simple mission:
+              B.V.M Security Services was founded with a simple mission:
               to provide top-tier security solutions that everyone can afford.
               What started as a small team of three passionate security experts
               has grown into a leading provider serving thousands of homes and
