@@ -74,7 +74,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <span>© BVM Security Services. All rights reserved.</span>
+        <span>© B.V.M Security Services. All rights reserved.</span>
         <div className="footer-bottom-links">
           <a href="#" onClick={scrollToTop}>Privacy Policy</a>
           <a href="#" onClick={scrollToTop}>Terms of Service</a>
